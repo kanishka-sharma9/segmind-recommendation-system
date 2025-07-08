@@ -1,0 +1,7 @@
+sqlalchemy
+python-dotenv
+fastapi
+pydantic
+sentry-sdk[fastapi]
+# sentry-sdk
+uvicorn
